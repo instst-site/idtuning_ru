@@ -1,2 +1,2 @@
 ﻿User-agent: *
-Sitemap: http://idtuning-ru.itsinsta.site/sitemap.xml
+Sitemap: http://idtuningru.itsinsta.site/sitemap.xml
