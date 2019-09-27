@@ -2623,7 +2623,16 @@
     <loc>http://idtuningru.itsinsta.site/tags/bmv.html</loc>
   </url>
   <url>
+    <loc>http://idtuningru.itsinsta.site/tags/avto.html</loc>
+  </url>
+  <url>
     <loc>http://idtuningru.itsinsta.site/tags/cars.html</loc>
+  </url>
+  <url>
+    <loc>http://idtuningru.itsinsta.site/tags/moskva.html</loc>
+  </url>
+  <url>
+    <loc>http://idtuningru.itsinsta.site/tags/rossiya.html</loc>
   </url>
   <url>
     <loc>http://idtuningru.itsinsta.site/tags/moscow.html</loc>
@@ -2635,19 +2644,10 @@
     <loc>http://idtuningru.itsinsta.site/tags/tuning.html</loc>
   </url>
   <url>
-    <loc>http://idtuningru.itsinsta.site/tags/avto.html</loc>
-  </url>
-  <url>
     <loc>http://idtuningru.itsinsta.site/tags/tyuning-avto.html</loc>
   </url>
   <url>
-    <loc>http://idtuningru.itsinsta.site/tags/moskva.html</loc>
-  </url>
-  <url>
     <loc>http://idtuningru.itsinsta.site/tags/car-look.html</loc>
-  </url>
-  <url>
-    <loc>http://idtuningru.itsinsta.site/tags/rossiya.html</loc>
   </url>
   <url>
     <loc>http://idtuningru.itsinsta.site/tags/smotra.html</loc>
@@ -2761,10 +2761,10 @@
     <loc>http://idtuningru.itsinsta.site/tags/leksus.html</loc>
   </url>
   <url>
-    <loc>http://idtuningru.itsinsta.site/tags/abt.html</loc>
+    <loc>http://idtuningru.itsinsta.site/tags/toyota.html</loc>
   </url>
   <url>
-    <loc>http://idtuningru.itsinsta.site/tags/toyota.html</loc>
+    <loc>http://idtuningru.itsinsta.site/tags/abt.html</loc>
   </url>
   <url>
     <loc>http://idtuningru.itsinsta.site/tags/lc200.html</loc>
@@ -2833,6 +2833,9 @@
     <loc>http://idtuningru.itsinsta.site/tags/kruzak.html</loc>
   </url>
   <url>
+    <loc>http://idtuningru.itsinsta.site/tags/lk200.html</loc>
+  </url>
+  <url>
     <loc>http://idtuningru.itsinsta.site/tags/g-class.html</loc>
   </url>
   <url>
@@ -2864,9 +2867,6 @@
   </url>
   <url>
     <loc>http://idtuningru.itsinsta.site/tags/bmw-x6.html</loc>
-  </url>
-  <url>
-    <loc>http://idtuningru.itsinsta.site/tags/lk200.html</loc>
   </url>
   <url>
     <loc>http://idtuningru.itsinsta.site/tags/scoupe.html</loc>
@@ -3016,6 +3016,9 @@
     <loc>http://idtuningru.itsinsta.site/tags/bmwm.html</loc>
   </url>
   <url>
+    <loc>http://idtuningru.itsinsta.site/tags/val-d.html</loc>
+  </url>
+  <url>
     <loc>http://idtuningru.itsinsta.site/tags/audi-tt.html</loc>
   </url>
   <url>
@@ -3082,9 +3085,6 @@
     <loc>http://idtuningru.itsinsta.site/tags/range.html</loc>
   </url>
   <url>
-    <loc>http://idtuningru.itsinsta.site/tags/val-d.html</loc>
-  </url>
-  <url>
     <loc>http://idtuningru.itsinsta.site/tags/kharley.html</loc>
   </url>
   <url>
@@ -3116,6 +3116,9 @@
   </url>
   <url>
     <loc>http://idtuningru.itsinsta.site/tags/okleyka-avto.html</loc>
+  </url>
+  <url>
+    <loc>http://idtuningru.itsinsta.site/tags/fol-ks-vagen.html</loc>
   </url>
   <url>
     <loc>http://idtuningru.itsinsta.site/tags/rendzh-rover-sport.html</loc>
@@ -3250,6 +3253,9 @@
     <loc>http://idtuningru.itsinsta.site/tags/amg-gts.html</loc>
   </url>
   <url>
+    <loc>http://idtuningru.itsinsta.site/tags/nissan.html</loc>
+  </url>
+  <url>
     <loc>http://idtuningru.itsinsta.site/tags/tuareg.html</loc>
   </url>
   <url>
@@ -3298,6 +3304,9 @@
     <loc>http://idtuningru.itsinsta.site/tags/mercedes-sl.html</loc>
   </url>
   <url>
+    <loc>http://idtuningru.itsinsta.site/tags/lend-kruzer.html</loc>
+  </url>
+  <url>
     <loc>http://idtuningru.itsinsta.site/tags/brone-plenka.html</loc>
   </url>
   <url>
@@ -3308,9 +3317,6 @@
   </url>
   <url>
     <loc>http://idtuningru.itsinsta.site/tags/picoftheday.html</loc>
-  </url>
-  <url>
-    <loc>http://idtuningru.itsinsta.site/tags/fol-ks-vagen.html</loc>
   </url>
   <url>
     <loc>http://idtuningru.itsinsta.site/tags/continental.html</loc>
@@ -3377,6 +3383,9 @@
   </url>
   <url>
     <loc>http://idtuningru.itsinsta.site/tags/e-class.html</loc>
+  </url>
+  <url>
+    <loc>http://idtuningru.itsinsta.site/tags/tekhart.html</loc>
   </url>
   <url>
     <loc>http://idtuningru.itsinsta.site/tags/branew.html</loc>
@@ -3562,7 +3571,13 @@
     <loc>http://idtuningru.itsinsta.site/tags/jaos.html</loc>
   </url>
   <url>
+    <loc>http://idtuningru.itsinsta.site/tags/r230.html</loc>
+  </url>
+  <url>
     <loc>http://idtuningru.itsinsta.site/tags/zeus.html</loc>
+  </url>
+  <url>
+    <loc>http://idtuningru.itsinsta.site/tags/dzhuk.html</loc>
   </url>
   <url>
     <loc>http://idtuningru.itsinsta.site/tags/cl500.html</loc>
@@ -3619,9 +3634,6 @@
     <loc>http://idtuningru.itsinsta.site/tags/elford.html</loc>
   </url>
   <url>
-    <loc>http://idtuningru.itsinsta.site/tags/nissan.html</loc>
-  </url>
-  <url>
     <loc>http://idtuningru.itsinsta.site/tags/hartge.html</loc>
   </url>
   <url>
@@ -3644,6 +3656,12 @@
   </url>
   <url>
     <loc>http://idtuningru.itsinsta.site/tags/cayman.html</loc>
+  </url>
+  <url>
+    <loc>http://idtuningru.itsinsta.site/tags/kayman.html</loc>
+  </url>
+  <url>
+    <loc>http://idtuningru.itsinsta.site/tags/tiguan.html</loc>
   </url>
   <url>
     <loc>http://idtuningru.itsinsta.site/tags/tiguan.html</loc>
@@ -3733,6 +3751,9 @@
     <loc>http://idtuningru.itsinsta.site/tags/kenstyle.html</loc>
   </url>
   <url>
+    <loc>http://idtuningru.itsinsta.site/tags/kenstayl.html</loc>
+  </url>
+  <url>
     <loc>http://idtuningru.itsinsta.site/tags/tonirovka.html</loc>
   </url>
   <url>
@@ -3809,6 +3830,9 @@
   </url>
   <url>
     <loc>http://idtuningru.itsinsta.site/tags/gelendwagen.html</loc>
+  </url>
+  <url>
+    <loc>http://idtuningru.itsinsta.site/tags/gelent-vagen.html</loc>
   </url>
   <url>
     <loc>http://idtuningru.itsinsta.site/tags/piecha-design.html</loc>
@@ -4066,6 +4090,12 @@
     <loc>http://idtuningru.itsinsta.site/tags/kheyko.html</loc>
   </url>
   <url>
+    <loc>http://idtuningru.itsinsta.site/tags/prado.html</loc>
+  </url>
+  <url>
+    <loc>http://idtuningru.itsinsta.site/tags/dzhaos.html</loc>
+  </url>
+  <url>
     <loc>http://idtuningru.itsinsta.site/tags/impul.html</loc>
   </url>
   <url>
@@ -4118,9 +4148,6 @@
   </url>
   <url>
     <loc>http://idtuningru.itsinsta.site/tags/lx450d.html</loc>
-  </url>
-  <url>
-    <loc>http://idtuningru.itsinsta.site/tags/tekhart.html</loc>
   </url>
   <url>
     <loc>http://idtuningru.itsinsta.site/tags/magnum.html</loc>
@@ -4262,6 +4289,9 @@
   </url>
   <url>
     <loc>http://idtuningru.itsinsta.site/tags/panamera.html</loc>
+  </url>
+  <url>
+    <loc>http://idtuningru.itsinsta.site/tags/prado-150.html</loc>
   </url>
   <url>
     <loc>http://idtuningru.itsinsta.site/tags/diski-shiny.html</loc>
@@ -4454,6 +4484,9 @@
   </url>
   <url>
     <loc>http://idtuningru.itsinsta.site/tags/rollsroyce-ghost.html</loc>
+  </url>
+  <url>
+    <loc>http://idtuningru.itsinsta.site/tags/lend-kruzer-prado.html</loc>
   </url>
   <url>
     <loc>http://idtuningru.itsinsta.site/tags/vykhlopnaya-sistema.html</loc>
